@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_page_size_titles">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="settings_page_size_values">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="settings_order_by_titles">
+        <item>Newest</item>
+        <item>Oldest</item>
+        <item>Relevance</item>
+    </string-array>
+    <string-array name="settings_order_by_values">
+        <item>newest</item>
+        <item>oldest</item>
+        <item>relevance</item>
+    </string-array>
+
+    <string-array name="settings_section_id_titles">
+        <item>Default</item>
+        <item>World</item>
+        <item>Sport</item>
+        <item>Football</item>
+        <item>Culture</item>
+        <item>Business</item>
+        <item>Technology</item>
+        <item>Travel</item>
+    </string-array>
+    <string-array name="settings_section_id_values">
+        <item></item>
+        <item>world</item>
+        <item>sport</item>
+        <item>football</item>
+        <item>culture</item>
+        <item>business</item>
+        <item>technology</item>
+        <item>travel</item>
+    </string-array>
+</resources>
